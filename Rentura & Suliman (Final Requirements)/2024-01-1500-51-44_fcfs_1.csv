@@ -1,0 +1,7 @@
+Job Name,Arrival Time,Burst Time,Finish Time,Turnaround Time,Waiting Time
+A,3,3,6,3,0
+B,5,5,11,6,1
+C,6,3,14,8,5
+D,8,7,21,13,6
+E,12,9,30,18,9
+F,16,6,36,20,14

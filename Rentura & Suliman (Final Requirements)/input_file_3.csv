@@ -1,0 +1,7 @@
+job,arrival time,burst time,fcfs finish time,sjf finish time,srtf finish time,rr(2) finish time
+A,3,3,6,6,6,8
+B,5,5,11,14,14,18
+C,6,3,14,9,9,15
+D,8,7,21,21,21,31
+E,12,9,30,36,36,36
+F,16,6,36,27,27,33
